@@ -1,0 +1,17 @@
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\bin\Debug\net7.0\API.SOLIC.Infra.deps.json
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\bin\Debug\net7.0\API.SOLIC.Infra.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\bin\Debug\net7.0\API.SOLIC.Infra.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\bin\Debug\net7.0\API.SOLIC.Dominio.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\bin\Debug\net7.0\API.SOLIC.Utilitario.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\bin\Debug\net7.0\API.SOLIC.Dominio.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\bin\Debug\net7.0\API.SOLIC.Utilitario.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.csproj.CopyComplete
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\refint\API.SOLIC.Infra.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\API.SOLIC.Infra.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Infra\obj\Debug\net7.0\ref\API.SOLIC.Infra.dll

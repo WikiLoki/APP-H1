@@ -1,0 +1,12 @@
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\bin\Debug\net7.0\API.SOLIC.Utilitario.deps.json
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\bin\Debug\net7.0\API.SOLIC.Utilitario.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\bin\Debug\net7.0\API.SOLIC.Utilitario.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\API.SOLIC.Utilitario.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\API.SOLIC.Utilitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\API.SOLIC.Utilitario.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\API.SOLIC.Utilitario.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\API.SOLIC.Utilitario.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\API.SOLIC.Utilitario.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\refint\API.SOLIC.Utilitario.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\API.SOLIC.Utilitario.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Utilitario\obj\Debug\net7.0\ref\API.SOLIC.Utilitario.dll

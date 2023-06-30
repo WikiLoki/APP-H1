@@ -1,0 +1,12 @@
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\bin\Debug\net7.0\API.SOLIC.Dominio.deps.json
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\bin\Debug\net7.0\API.SOLIC.Dominio.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\bin\Debug\net7.0\API.SOLIC.Dominio.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\API.SOLIC.Dominio.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\API.SOLIC.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\API.SOLIC.Dominio.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\API.SOLIC.Dominio.AssemblyInfo.cs
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\API.SOLIC.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\API.SOLIC.Dominio.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\refint\API.SOLIC.Dominio.dll
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\API.SOLIC.Dominio.pdb
+C:\Users\gabri\Documents\Projetos\API.SOLIC\API.SOLIC.Dominio\obj\Debug\net7.0\ref\API.SOLIC.Dominio.dll

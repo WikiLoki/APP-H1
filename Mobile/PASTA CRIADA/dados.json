@@ -1,0 +1,172 @@
+{
+  "Users": [
+    {
+      "name": "Robinson Duarte Neves",
+      "password": "123456",
+      "document": "52464629896",
+      "login": "robinhopedala@hotmail.com",
+      "professor": 1,
+      "id": 18
+    },
+    {
+      "name": "Pedro Paulo Rita de Alcântara",
+      "password": "ratãodoido",
+      "document": "13950112650",
+      "login": "peperlegar@hotmail.com",
+      "professor": 0,
+      "id": 19
+    },
+    {
+      "name": "Antony Marcelo Bispo",
+      "password": "ratãodoido",
+      "document": "16551132165",
+      "login": "antonybmx@hotmail.com",
+      "professor": 0,
+      "id": 20
+    },
+    {
+      "name": "Leo Pires Cloud",
+      "password": "ratãodoido",
+      "document": "12165451897",
+      "login": "leopires@hotmail.com",
+      "professor": 0,
+      "id": 21
+    },
+    {
+      "name": "Humberto Paiva Cleide",
+      "password": "ratãodoido",
+      "document": "21234653124",
+      "login": "h1@hotmail.com",
+      "professor": 1,
+      "id": 22
+    },
+    {
+      "name": "Maurício Violento Chacas",
+      "password": "ratãodoido",
+      "document": "11465143246",
+      "login": "maumau@hotmail.com",
+      "professor": 1,
+      "id": 23
+    },
+    {
+      "name": "Hugo Tavares Neto Junior Filho",
+      "password": "ratãodoido",
+      "document": "12154146446",
+      "login": "hugot@hotmail.com",
+      "professor": 1,
+      "id": 24
+    },
+    {
+      "name": "Guilherme Carneiro Reis ",
+      "password": "ratãodoido",
+      "document": "13547456545",
+      "login": "guigui@hotmail.com",
+      "professor": 0,
+      "id": 25
+    },
+    {
+      "name": "Samuel Giga Nozes",
+      "password": "ratãodoido",
+      "document": "11321546447",
+      "login": "samudamassa@hotmail.com",
+      "professor": 0,
+      "id": 26
+    },
+    {
+      "name": "Estevão Big Ocean",
+      "password": "ratãodoido",
+      "document": "14545646574",
+      "login": "bigocean@hotmail.com",
+      "professor": 0,
+      "id": 27
+    },
+    {
+      "name": "Carlos Onion Axios",
+      "password": "ratãodoido",
+      "document": "09654644564",
+      "login": "carlão@hotmail.com",
+      "professor": 0,
+      "id": 28
+    },
+    {
+      "name": "João Das Neves Teixeira Pinto",
+      "password": "ratãodoido",
+      "document": "12545765454",
+      "login": "jão@hotmail.com",
+      "professor": 0,
+      "id": 29
+    },
+    {
+      "name": "Alan Lores Reis",
+      "password": "ratãodoido",
+      "document": "11235456496",
+      "login": "alanzoka@hotmail.com",
+      "professor": 0,
+      "id": 30
+    },
+    {
+      "name": "1",
+      "password": "1",
+      "document": "1",
+      "login": "1",
+      "professor": 0,
+      "id": 31,
+      "solicitations": [
+        {
+          "id": 1,
+          "tema": "Tema da solicitação",
+          "description": "Descrição da solicitação"
+        },
+        {
+          "id": 2,
+          "tema": "Outro tema",
+          "description": "Outra descrição"
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "password": "2",
+      "document": "2",
+      "login": "2",
+      "professor": 1,
+      "id": 32
+    },
+    {
+      "tema": "sasas",
+      "description": "asasa",
+      "id": 33
+    },
+    {
+      "tema": "sasa",
+      "description": "sasasa",
+      "id": 34
+    },
+    {
+      "tema": "sasas",
+      "descricao": "asasa",
+      "professorName": "Robinson Duarte Neves",
+      "id": 35
+    },
+    {
+      "tema": "sasa",
+      "descricao": "sasas",
+      "professorName": "Robinson Duarte Neves",
+      "id": 36
+    },
+    {
+      "tema": "SASSA",
+      "descricao": "SASASA",
+      "nomeAluno": "1",
+      "professorName": "Robinson Duarte Neves",
+      "id": 37
+    },
+    {
+      "tema": "sasa",
+      "descricao": "sasa",
+      "nomeAluno": "1",
+      "professorName": "2",
+      "id": 38
+    }
+  ]
+}
