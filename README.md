@@ -2,7 +2,7 @@
 <p align="center">
 
 <h1 align="center">
-    <p style="color:#C03028">SOLIC</p>
+    <p style="color:#C03028">TCC</p>
 </h1>
 
 ## 🧪 Tecnologias
